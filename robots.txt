@@ -1,0 +1,3 @@
+# robots.txt
+
+Sitemap: http://iine.hail2u.net/sitemap.xml
